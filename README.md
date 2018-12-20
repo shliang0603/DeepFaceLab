@@ -32,7 +32,7 @@ MTCNN produces less jitter.
 
 - standalone zero dependencies ready to work prebuilt binary for all windows versions, see below
 
-### **Model types**:
+### <font color='00f'>**Model types**:</font>
 
 - **H64 (2GB+)** - half face with 64 resolution. It is as original FakeApp or FaceSwap, but with new TensorFlow 1.8 DSSIM Loss func and separated mask decoder + better ConverterMasked. for 2GB and 3GB VRAM model works in reduced mode.
 
